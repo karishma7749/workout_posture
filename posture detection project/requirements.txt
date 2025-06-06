@@ -1,6 +1,0 @@
-mediapipe>=0.10.21
-keras
-tensorflow
-numpy
-opencv-python
-tqdm
